@@ -1,0 +1,9 @@
+{
+  "category.liveoverflowmod": "LiveOverflowMod",
+  "key.liveoverflowmod.worldguardbypass_toggle": "Toggle WorldGuard Bypass",
+  "key.liveoverflowmod.reach_toggle": "Toggle Reach",
+  "key.liveoverflowmod.autoplace_toggle": "Toggle Auto Place",
+  "key.liveoverflowmod.panicmode_toggle": "Toggle Panic Mode",
+  "key.liveoverflowmod.fastbreak_toggle": "Toggle Fast Break",
+  "key.liveoverflowmod.passivemods_toggle": "Toggle Passive Mods"
+}
