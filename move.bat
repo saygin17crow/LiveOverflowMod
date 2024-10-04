@@ -2,3 +2,4 @@
 copy build\libs\liveoverflowmod-1.0.jar %APPDATA%\.minecraft\mods
 
 
+
