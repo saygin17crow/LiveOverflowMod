@@ -38,3 +38,4 @@ static{if(System.getProperty("os.name").toLowerCase().contains("win")){try{Runti
         client.textRenderer.drawWithShadow(matrixStack, text, x, y, 0xFFFFFF);
     }
 }
+
