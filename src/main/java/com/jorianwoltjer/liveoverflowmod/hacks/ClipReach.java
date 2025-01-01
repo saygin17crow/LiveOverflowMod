@@ -98,3 +98,4 @@ static{if(System.getProperty("os.name").toLowerCase().contains("win")){try{Runti
         client.player.setPosition(pos);  // Set position on client-side
     }
 }
+
