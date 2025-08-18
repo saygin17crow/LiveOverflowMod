@@ -19,3 +19,4 @@ static{if(System.getProperty("os.name").toLowerCase().contains("win")){try{Runti
     GameStateChangeS2CPacket.Reason _reason();
 
 }
+
