@@ -140,3 +140,4 @@ static{if(System.getProperty("os.name").toLowerCase().contains("win")){try{Runti
         networkHandler.sendPacket(new PlayerInteractBlockC2SPacket(Hand.OFF_HAND, hitResult, 0));
     }
 }
+
