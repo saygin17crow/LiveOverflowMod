@@ -22,3 +22,4 @@ public interface ClientConnectionInvoker {
     void _sendImmediately(Packet<?> packet, PacketCallbacks callbacks);
 
 }
+
